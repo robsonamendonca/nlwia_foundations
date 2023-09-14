@@ -17,6 +17,12 @@ Projeto criado na Trilha Foundations, do evento NLW 13 IA.
 
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 
+## Depois de clone e esta dentro da pasta do projeto
+
+```
+npm install
+```
+
 ## Frontend
 
 ```
